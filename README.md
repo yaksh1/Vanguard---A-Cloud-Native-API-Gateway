@@ -1,7 +1,3 @@
-Of course. Here is a detailed README for the third project, the **High-Performance API Gateway**.
-
----
-
 # Vanguard: A Cloud-Native API Gateway
 
 **Vanguard** is a lightweight, high-performance, and asynchronous API Gateway built with Python and FastAPI. Designed to be the single entry point for a cloud-native microservices architecture, Vanguard provides dynamic routing, rate limiting, and authentication out-of-the-box.
